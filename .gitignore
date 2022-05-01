@@ -1,0 +1,11 @@
+#files
+images/icon.ico
+VPN.spec
+pyinstaller.py
+ ProxyVPN-windows-amd64.spec
+
+#folders
+.vscode
+build/
+dist/
+src/__pycache__
